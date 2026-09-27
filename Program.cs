@@ -1,4 +1,9 @@
-﻿using Bai03.Models;
+﻿/*
+Mã sinh viên: 202418946
+Họ tên: Phạm Văn Minh
+*/
+
+using Bai03.Models;
 
 // 1. Tạo hai Employee bằng hai constructor khác nhau. 
 Console.WriteLine("TestCase 1");
